@@ -1,0 +1,13 @@
+[
+{
+    "model": "updates.updates",
+    "pk": 1,
+    "fields": {
+        "user": 1,
+        "content": "New kama tempo",
+        "image": "updates/admin/l9xroww96er31.jpg",
+        "updated": "2021-03-02T16:13:47.959Z",
+        "timestamp": "2021-03-02T16:09:23.658Z"
+    }
+}
+]

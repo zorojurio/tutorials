@@ -1,0 +1,10 @@
+{
+  "buy": "kaufen",
+  "best_place": "Was sind deine Lieblingsorte",
+  "ROLES": {
+    "ADMIN": "Administratorin"
+  },
+  "HOME": {
+    "HELLO": "Hallo {{value}}"
+  }
+}

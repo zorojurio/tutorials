@@ -1,0 +1,10 @@
+{
+  "buy": "buy",
+  "best_place": "What are your favourite places",
+  "ROLES": {
+    "ADMIN": "Administrator"
+  },
+  "HOME": {
+    "HELLO": "hello {{value}}"
+  }
+}

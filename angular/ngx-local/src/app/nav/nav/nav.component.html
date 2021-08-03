@@ -1,0 +1,16 @@
+<div class="container mt-4">
+  <div class="row">
+    <div class="col-10">
+      <h2 class="text-center">Please select your language</h2>
+    </div>
+    <div class="col-2">
+      <div class="input-group mb-3">
+        <select class="form-select" (change)="changeLang($event.target.value)">
+          <option value="en" [selected]='lang === "en"' >English</option>
+          <option value="de" [selected]='lang === "de"'>German</option>
+          <option value="ar" [selected]='lang === "ar"'>Arabic</option>
+        </select>
+      </div>
+    </div>
+  </div>
+</div>

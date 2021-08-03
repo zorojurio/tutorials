@@ -1,0 +1,14 @@
+<p>hell</p>
+<form [formGroup]="demoForm" (ngSubmit)="onSubmit()">
+  <div formArrayName="demoArray"
+       *ngFor="let item of demoArray.controls; let i=index">
+
+    <div formGroupName="{{i}}">
+      {{dayItems[i]}}
+        <input type="time" formControlName="from">
+        <input type="time" formControlName="to">
+    </div>
+
+  </div>
+  <button type="submit">Submit</button>
+</form>

@@ -1,0 +1,21 @@
+<h1>Angular Form Builder and Validation Management</h1>
+
+
+<form [formGroup]="userForm" (submit)="saveUser()">
+  <label for="name">Name</label>
+  <input formControlName="name"
+  [ngClass]="{'is-invalid': validateFormControl(userForm.get('name'))}" id="name" />
+  <app-control-messages [control]="userForm.get('name')"></app-control-messages>
+
+  <label for="email">Email</label>
+  <input formControlName="email" type="text" id="email"
+  [ngClass]="{'is-invalid': validateFormControl(userForm.get('email'))}"/>
+  <app-control-messages [control]="userForm.get('email')"></app-control-messages>
+
+  <label for="profile">Profile Description</label>
+  <textarea formControlName="profile" id="profile"
+  [ngClass]="{'is-invalid': validateFormControl(userForm.get('profile'))}" ></textarea>
+  <app-control-messages [control]="userForm.get('profile')"></app-control-messages>
+
+  <button type="submit">Submit</button>
+</form>

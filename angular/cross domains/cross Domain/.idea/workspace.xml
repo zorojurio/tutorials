@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="969ad9db-a985-4891-bcc2-d8c95f9f88a0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/first-app/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/first-app/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-app/e2e/protractor.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/first-app/e2e/protractor.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/first-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/first-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-app/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/first-app/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-app/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/first-app/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second-app/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/second-app/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/second-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/second-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second-app/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/second-app/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second-app/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/second-app/src/app/app.component.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/second-app" />
+  </component>
+  <component name="ProjectId" id="1ogLIoZrAXBpZjMIF8jjfWcqJ49" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="ts.external.directory.path" value="C:\Users\Chanuka\Desktop\Internship Tutorials\practise\cross Domain\second-app\node_modules\typescript\lib" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="969ad9db-a985-4891-bcc2-d8c95f9f88a0" name="Default Changelist" comment="" />
+      <created>1613703212977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613703212977</updated>
+      <workItem from="1613703247659" duration="3723000" />
+      <workItem from="1613746699388" duration="5090000" />
+      <workItem from="1613873412069" duration="1647000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>

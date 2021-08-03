@@ -1,0 +1,19 @@
+<app-nav></app-nav>
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-6">
+      <p>{{ 'ROLES.' + role | uppercase | translate }}</p>
+      <div [translate]="'HOME.HELLO'" [translateParams]="{value: 'world'}"></div>
+      <div>{{ 'HOME.HELLO' | translate:param }}</div>
+    </div>
+    <div class="col-6">
+      <div class="text-right">
+        <input type="text" class="form-control" placeholder="{{'best_place' | translate}}">
+        <button class="btn btn-secondary" type="button">{{'buy'| translate }} {{name}}</button>
+      </div>
+    </div>
+  </div>
+</div>

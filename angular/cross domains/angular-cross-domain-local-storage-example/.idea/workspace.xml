@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9de1951c-b278-4e26-8797-72d22cc7f38b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-domain-app/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/first-domain-app/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-domain-app/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/first-domain-app/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second-domain-app/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/second-domain-app/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second-domain-app/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/second-domain-app/src/app/app.component.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oep9EKr1Hz6E6zW6ULXWgufsGv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="eu.ydp.idea.ts.spec.generator.settings.spec.template" value="import {$ClassName$} from '$TestsRelativePath$../src/$classRelativePath$/$ClassName$';&#10;&#10;describe('$ClassName$', () =&gt; {&#10;  let $ObjName$:$ClassName$;&#10;&#10;  beforeEach(() =&gt; {&#10;    $ObjName$ = new $ClassName$();&#10;  });&#10;&#10;  describe('', () =&gt; {&#10;    it('', () =&gt; {&#10;      // given&#10;&#10;      // when&#10;&#10;      // then&#10;    });&#10;  });&#10;});&#10;" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="C:\Users\Chanuka\Desktop\Internship Tutorials\practise\angular-cross-domain-local-storage-example\first-domain-app\node_modules\tslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="ts.external.directory.path" value="C:\Users\Chanuka\Desktop\Internship Tutorials\practise\angular-cross-domain-local-storage-example\first-domain-app\node_modules\typescript\lib" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9de1951c-b278-4e26-8797-72d22cc7f38b" name="Default" comment="" />
+      <created>1513885993157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513885993157</updated>
+      <workItem from="1513885996177" duration="2682000" />
+      <workItem from="1613656943697" duration="471000" />
+      <workItem from="1613662504371" duration="3503000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="390" y="99" width="585" height="530" key="find.popup" timestamp="1613662753448">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="99" width="585" height="530" key="find.popup/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1613662753448" />
+  </component>
+</project>

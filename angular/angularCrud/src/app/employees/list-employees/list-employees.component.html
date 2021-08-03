@@ -1,0 +1,70 @@
+<div class="card mt-4" *ngFor="let employee of employees">
+  <div class="card-header">
+    <h3>{{employee.name}}</h3>
+  </div>
+  <div class="card-body">
+    <div class="row ">
+      <div class="col-4">
+        <img class="profilePic" [src]="employee.photoPath" alt="{{employee.name}}">
+      </div>
+      <div class="col-8">
+        <div class="row">
+          <div class="col-6">
+            Gender
+          </div>
+          <div class="col-6">
+            : {{employee.gender}}
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-6">
+            Date of Birth
+          </div>
+          <div class="col-6">
+            : {{employee.dateOfBirth | date}}
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-6">
+            Contact Preference
+          </div>
+          <div class="col-6">
+            : {{employee.contactPreferrence}}
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-6">
+            Phone
+          </div>
+          <div class="col-6">
+            : {{employee.phoneNumber}}
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-6">
+            Email
+          </div>
+          <div class="col-6">
+            : {{employee.email}}
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-6">
+            Department
+          </div>
+          <div class="col-6">
+            : {{employee.department}}
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-6">
+            Is Active
+          </div>
+          <div class="col-6">
+            : {{employee.isActive}}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

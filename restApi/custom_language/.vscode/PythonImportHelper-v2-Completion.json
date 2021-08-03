@@ -1,0 +1,776 @@
+[
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "parler.fields",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "parler.fields",
+        "description": "parler.fields",
+        "detail": "parler.fields",
+        "documentation": {}
+    },
+    {
+        "label": "parler.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "parler.models",
+        "description": "parler.models",
+        "detail": "parler.models",
+        "documentation": {}
+    },
+    {
+        "label": "TranslatableModel",
+        "importPath": "parler.models",
+        "description": "parler.models",
+        "isExtraImport": true,
+        "detail": "parler.models",
+        "documentation": {}
+    },
+    {
+        "label": "TranslatedFields",
+        "importPath": "parler.models",
+        "description": "parler.models",
+        "isExtraImport": true,
+        "detail": "parler.models",
+        "documentation": {}
+    },
+    {
+        "label": "categories.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "categories.models",
+        "description": "categories.models",
+        "detail": "categories.models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "categories.models",
+        "description": "categories.models",
+        "isExtraImport": true,
+        "detail": "categories.models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "categories.models",
+        "description": "categories.models",
+        "isExtraImport": true,
+        "detail": "categories.models",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "TranslatableAdmin",
+        "importPath": "parler.admin",
+        "description": "parler.admin",
+        "isExtraImport": true,
+        "detail": "parler.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "gettext",
+        "importPath": "django.utils.translation",
+        "description": "django.utils.translation",
+        "isExtraImport": true,
+        "detail": "django.utils.translation",
+        "documentation": {}
+    },
+    {
+        "label": "get_language_from_request",
+        "importPath": "django.utils.translation",
+        "description": "django.utils.translation",
+        "isExtraImport": true,
+        "detail": "django.utils.translation",
+        "documentation": {}
+    },
+    {
+        "label": "gettext_lazy",
+        "importPath": "django.utils.translation",
+        "description": "django.utils.translation",
+        "isExtraImport": true,
+        "detail": "django.utils.translation",
+        "documentation": {}
+    },
+    {
+        "label": "random_string_generator",
+        "importPath": "lang.utils",
+        "description": "lang.utils",
+        "isExtraImport": true,
+        "detail": "lang.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_filename_ext",
+        "importPath": "lang.utils",
+        "description": "lang.utils",
+        "isExtraImport": true,
+        "detail": "lang.utils",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "importPath": "lang.settings",
+        "description": "lang.settings",
+        "isExtraImport": true,
+        "detail": "lang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "lang",
+        "description": "lang",
+        "isExtraImport": true,
+        "detail": "lang",
+        "documentation": {}
+    },
+    {
+        "label": "global_settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "django.conf.locale",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.conf.locale",
+        "description": "django.conf.locale",
+        "detail": "django.conf.locale",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "TranslatableModelSerializer",
+        "importPath": "parler_rest.serializers",
+        "description": "parler_rest.serializers",
+        "isExtraImport": true,
+        "detail": "parler_rest.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "TranslatedFieldsField",
+        "importPath": "parler_rest.fields",
+        "description": "parler_rest.fields",
+        "isExtraImport": true,
+        "detail": "parler_rest.fields",
+        "documentation": {}
+    },
+    {
+        "label": "routers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "TranslatedSerializerMixin",
+        "importPath": "lang.mixins",
+        "description": "lang.mixins",
+        "isExtraImport": true,
+        "detail": "lang.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "string",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "string",
+        "description": "string",
+        "detail": "string",
+        "documentation": {}
+    },
+    {
+        "label": "slugify",
+        "importPath": "django.utils.text",
+        "description": "django.utils.text",
+        "isExtraImport": true,
+        "detail": "django.utils.text",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "management",
+        "importPath": "django.core",
+        "description": "django.core",
+        "isExtraImport": true,
+        "detail": "django.core",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "categories.migrations.0001_initial",
+        "description": "categories.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Category',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('timestamp', models.DateTimeField(auto_now_add=True)),",
+        "detail": "categories.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "categories.migrations.0002_auto_20210721_1253",
+        "description": "categories.migrations.0002_auto_20210721_1253",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('categories', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='category',\n            name='image',\n            field=models.ImageField(blank=True, null=True, upload_to=categories.models.image_upload_to),\n        ),",
+        "detail": "categories.migrations.0002_auto_20210721_1253",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryAdmin",
+        "kind": 6,
+        "importPath": "categories.admin",
+        "description": "categories.admin",
+        "peekOfCode": "class CategoryAdmin(TranslatableAdmin):\n    list_display = ('name', 'description')\n    fieldsets = (\n        (None, {\n            'fields': (\n                'name',\n                'description',\n                'meta_title',\n                'meta_description',\n                'image',",
+        "detail": "categories.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CategoriesConfig",
+        "kind": 6,
+        "importPath": "categories.apps",
+        "description": "categories.apps",
+        "peekOfCode": "class CategoriesConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'categories'",
+        "detail": "categories.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "kind": 6,
+        "importPath": "categories.models",
+        "description": "categories.models",
+        "peekOfCode": "class Category(TranslatableModel):\n    translations = TranslatedFields(\n        name=models.CharField(_(\"Name\"), max_length=255, blank=True, null=True),\n        description=models.TextField(_(\"Description\"), blank=True, null=True)\n    )\n    meta_title = models.CharField(max_length=255, blank=True, null=True)\n    meta_description = models.TextField(blank=True, null=True)\n    image = models.ImageField(upload_to=image_upload_to, blank=True, null=True)\n    timestamp = models.DateTimeField(auto_now_add=True)\n    updated = models.DateTimeField(auto_now=True)",
+        "detail": "categories.models",
+        "documentation": {}
+    },
+    {
+        "label": "image_upload_to",
+        "kind": 2,
+        "importPath": "categories.models",
+        "description": "categories.models",
+        "peekOfCode": "def image_upload_to(instance, filename):\n    name = instance.name\n    random_name = random_string_generator(size=10)  # getting a random name for the file\n    basename, file_extension = get_filename_ext(filename)\n    new_file_name = f\"{name}-{random_name}{file_extension}\"\n    return f\"Categories/{name}/{new_file_name}\"\nclass Category(TranslatableModel):\n    translations = TranslatedFields(\n        name=models.CharField(_(\"Name\"), max_length=255, blank=True, null=True),\n        description=models.TextField(_(\"Description\"), blank=True, null=True)",
+        "detail": "categories.models",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "lang.asgi",
+        "description": "lang.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "lang.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "TranslatedSerializerMixin",
+        "kind": 6,
+        "importPath": "lang.mixins",
+        "description": "lang.mixins",
+        "peekOfCode": "class TranslatedSerializerMixin(object):\n    \"\"\"\n    Mixin for selecting only requested translation with django-parler-rest\n    \"\"\"\n    def to_representation(self, instance):\n        inst_rep = super().to_representation(instance)\n        request = self.context.get('request')\n        lang_code = get_language_from_request(request)\n        result = {}\n        for field_name, field in self.get_fields().items():",
+        "detail": "lang.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "gettext_noop",
+        "kind": 2,
+        "importPath": "lang.settings",
+        "description": "lang.settings",
+        "peekOfCode": "def gettext_noop(s): return s\nLANGUAGE_CODE = 'en'\nLANGUAGES = (\n    ('en', 'English'),\n    ('si', gettext_noop('සිංහල')),\n)\nPARLER_LANGUAGES = {\n    None: (\n        {'code': 'en'},\n        {'code': 'si'},",
+        "detail": "lang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "lang.settings",
+        "description": "lang.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-nqu*v3uxgi+g&64a!)hxi-h6uz$cej$804r!#+3+hj8^gb#3#y'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "lang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "lang.settings",
+        "description": "lang.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-nqu*v3uxgi+g&64a!)hxi-h6uz$cej$804r!#+3+hj8^gb#3#y'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "lang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "lang.settings",
+        "description": "lang.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "lang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "lang.settings",
+        "description": "lang.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'parler',",
+        "detail": "lang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "lang.settings",
+        "description": "lang.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'parler',\n    'rest_framework',\n    'categories',",
+        "detail": "lang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "lang.settings",
+        "description": "lang.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.locale.LocaleMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "lang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "lang.settings",
+        "description": "lang.settings",
+        "peekOfCode": "ROOT_URLCONF = 'lang.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "lang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "lang.settings",
+        "description": "lang.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "lang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "lang.settings",
+        "description": "lang.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'lang.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "lang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "lang.settings",
+        "description": "lang.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "lang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "lang.settings",
+        "description": "lang.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "lang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "lang.settings",
+        "description": "lang.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en'\nLANGUAGES = (\n    ('en', 'English'),\n    ('si', gettext_noop('සිංහල')),\n)\nPARLER_LANGUAGES = {\n    None: (\n        {'code': 'en'},\n        {'code': 'si'},\n    ),",
+        "detail": "lang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGES",
+        "kind": 5,
+        "importPath": "lang.settings",
+        "description": "lang.settings",
+        "peekOfCode": "LANGUAGES = (\n    ('en', 'English'),\n    ('si', gettext_noop('සිංහල')),\n)\nPARLER_LANGUAGES = {\n    None: (\n        {'code': 'en'},\n        {'code': 'si'},\n    ),\n    'default': {",
+        "detail": "lang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "PARLER_LANGUAGES",
+        "kind": 5,
+        "importPath": "lang.settings",
+        "description": "lang.settings",
+        "peekOfCode": "PARLER_LANGUAGES = {\n    None: (\n        {'code': 'en'},\n        {'code': 'si'},\n    ),\n    'default': {\n        'fallbacks': ['en'],\n        'hide_untranslated': False,  # Default\n    }\n}",
+        "detail": "lang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EXTRA_LANG_INFO",
+        "kind": 5,
+        "importPath": "lang.settings",
+        "description": "lang.settings",
+        "peekOfCode": "EXTRA_LANG_INFO = {\n    'si': {\n        'bidi': False,  # right-to-left\n        'code': 'si',\n        'name': 'සිංහල',\n        # unicode codepoints here\n        'name_local': 'සිංහල',\n    },\n}\n# Add custom languages not provided by Django",
+        "detail": "lang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANG_INFO",
+        "kind": 5,
+        "importPath": "lang.settings",
+        "description": "lang.settings",
+        "peekOfCode": "LANG_INFO = dict(django.conf.locale.LANG_INFO, **EXTRA_LANG_INFO)\ndjango.conf.locale.LANG_INFO = LANG_INFO\nLOCALE_PATHS = (\n    os.path.join(BASE_DIR, 'locale/'),\n)\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)",
+        "detail": "lang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "django.conf.locale.LANG_INFO",
+        "kind": 5,
+        "importPath": "lang.settings",
+        "description": "lang.settings",
+        "peekOfCode": "django.conf.locale.LANG_INFO = LANG_INFO\nLOCALE_PATHS = (\n    os.path.join(BASE_DIR, 'locale/'),\n)\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/",
+        "detail": "lang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOCALE_PATHS",
+        "kind": 5,
+        "importPath": "lang.settings",
+        "description": "lang.settings",
+        "peekOfCode": "LOCALE_PATHS = (\n    os.path.join(BASE_DIR, 'locale/'),\n)\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "lang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "lang.settings",
+        "description": "lang.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "lang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "lang.settings",
+        "description": "lang.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "lang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "lang.settings",
+        "description": "lang.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "lang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "lang.settings",
+        "description": "lang.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "lang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "lang.settings",
+        "description": "lang.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "lang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "lang.settings",
+        "description": "lang.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "lang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CategorySerializer",
+        "kind": 6,
+        "importPath": "lang.urls",
+        "description": "lang.urls",
+        "peekOfCode": "class CategorySerializer(TranslatedSerializerMixin, TranslatableModelSerializer):\n    translations = TranslatedFieldsField(shared_model=Category)\n    class Meta:\n        model = Category\n        fields = (\n            'translations', 'meta_title',\n            'meta_description',\n            'image',\n        )\nclass CategoryViewSet(viewsets.ModelViewSet):",
+        "detail": "lang.urls",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryViewSet",
+        "kind": 6,
+        "importPath": "lang.urls",
+        "description": "lang.urls",
+        "peekOfCode": "class CategoryViewSet(viewsets.ModelViewSet):\n    queryset = Category.objects.all()\n    serializer_class = CategorySerializer\nrouter = routers.DefaultRouter()\nrouter.register(r'category', CategoryViewSet)\nurlpatterns = [\n    path('admin/', admin.site.urls),\n    path('api/', include((router.urls, 'category'))),\n]",
+        "detail": "lang.urls",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "lang.urls",
+        "description": "lang.urls",
+        "peekOfCode": "router = routers.DefaultRouter()\nrouter.register(r'category', CategoryViewSet)\nurlpatterns = [\n    path('admin/', admin.site.urls),\n    path('api/', include((router.urls, 'category'))),\n]",
+        "detail": "lang.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "lang.urls",
+        "description": "lang.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('api/', include((router.urls, 'category'))),\n]",
+        "detail": "lang.urls",
+        "documentation": {}
+    },
+    {
+        "label": "get_filename_ext",
+        "kind": 2,
+        "importPath": "lang.utils",
+        "description": "lang.utils",
+        "peekOfCode": "def get_filename_ext(filepath):\n    # getting the file name from the file directory\n    base_name = os.path.basename(filepath)\n    # splitting the extention and the file name\n    name, ext = os.path.splitext(base_name)\n    return name, ext\ndef random_string_generator(size=10, chars=string.ascii_lowercase + string.digits):\n    return ''.join(random.choice(chars) for _ in range(size))\ndef random_number_generator(size=20, chars=string.digits):\n    return ''.join(random.choice(chars) for _ in range(size))",
+        "detail": "lang.utils",
+        "documentation": {}
+    },
+    {
+        "label": "random_string_generator",
+        "kind": 2,
+        "importPath": "lang.utils",
+        "description": "lang.utils",
+        "peekOfCode": "def random_string_generator(size=10, chars=string.ascii_lowercase + string.digits):\n    return ''.join(random.choice(chars) for _ in range(size))\ndef random_number_generator(size=20, chars=string.digits):\n    return ''.join(random.choice(chars) for _ in range(size))\ndef unique_slug_generator(instance, new_slug=None):\n    \"\"\"\n    This is for a Django project and it assumes your instance\n    has a model with a slug field and a title character (char) field.\n    \"\"\"\n    if new_slug is not None:",
+        "detail": "lang.utils",
+        "documentation": {}
+    },
+    {
+        "label": "random_number_generator",
+        "kind": 2,
+        "importPath": "lang.utils",
+        "description": "lang.utils",
+        "peekOfCode": "def random_number_generator(size=20, chars=string.digits):\n    return ''.join(random.choice(chars) for _ in range(size))\ndef unique_slug_generator(instance, new_slug=None):\n    \"\"\"\n    This is for a Django project and it assumes your instance\n    has a model with a slug field and a title character (char) field.\n    \"\"\"\n    if new_slug is not None:\n        slug = new_slug\n    else:",
+        "detail": "lang.utils",
+        "documentation": {}
+    },
+    {
+        "label": "unique_slug_generator",
+        "kind": 2,
+        "importPath": "lang.utils",
+        "description": "lang.utils",
+        "peekOfCode": "def unique_slug_generator(instance, new_slug=None):\n    \"\"\"\n    This is for a Django project and it assumes your instance\n    has a model with a slug field and a title character (char) field.\n    \"\"\"\n    if new_slug is not None:\n        slug = new_slug\n    else:\n        slug = slugify(instance.title)\n    Klass = instance.__class__",
+        "detail": "lang.utils",
+        "documentation": {}
+    },
+    {
+        "label": "unique_order_id_generator",
+        "kind": 2,
+        "importPath": "lang.utils",
+        "description": "lang.utils",
+        "peekOfCode": "def unique_order_id_generator(instance):\n    ad_profile_new_id = random_string_generator(15)\n    Klass = instance.__class__\n    qs_exists = Klass.objects.filter(ad_profile_id=ad_profile_new_id).exists()\n    if qs_exists:\n        return unique_slug_generator(instance)\n    return ad_profile_new_id",
+        "detail": "lang.utils",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "lang.wsgi",
+        "description": "lang.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "lang.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'lang.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
